@@ -1,0 +1,7 @@
+{
+    "id": "A1",
+    "timestamp": "2023-08-19T10:00:00Z",
+    "temperature_value": 72.5,
+    "psi": 101.3,
+    "status": "OK"
+}
